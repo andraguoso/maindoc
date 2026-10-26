@@ -1,2 +1,2 @@
-# maindoc
-Repository of English learning materials
+## maindoc
+Repository of English learning material
